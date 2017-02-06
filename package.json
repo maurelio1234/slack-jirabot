@@ -23,18 +23,18 @@
   },
   "dependencies": {
     "botkit": "^0.4.10",
-    "jira-client": "^3.0.2",
+    "jira-client": "*",
     "jira2slack": "^1.0.0",
     "moment": "^2.10.3",
-    "redact-object": "^1.0.1",
+    "redact-object": "*",
     "winston": "^2.1.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.9",
     "faucet": "0.0.1",
-    "nyc": "^6.4.0",
+    "nyc": "*",
     "semistandard": "^8.0.0",
-    "snazzy": "^4.0.0",
+    "snazzy": "*",
     "tape": "^4.5.1"
   },
   "semistandard": {
